@@ -1,0 +1,63 @@
+*{
+    background-color: whitesmoke;
+    color: black ;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+   background-color:  #333;
+}
+li a    {
+    display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li{
+    float: right;
+    
+}
+li :hover{
+    background-color:   black  ;
+    color: white;
+}
+h1{
+    text-align: center;
+    
+}
+img{
+    width: 400px;  
+height: 400px;  
+position: relative;
+left: 40%;
+    
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+    padding-left: 45%;
+    border-radius: 0px;
+    position: relative;
+    
+}
+footer{
+    text-align: center;
+    background-color: lightgray;
+    margin-top: 100px;
+    padding: 20px 20px;
+}
+
+.btn{
+margin-left: 55px;
+    
+}
+   
